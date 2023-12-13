@@ -70,5 +70,6 @@ static int PartTwo(string[] inputs)
         sum += (red*green*blue);
     }
 
+  
     return sum;
 }
